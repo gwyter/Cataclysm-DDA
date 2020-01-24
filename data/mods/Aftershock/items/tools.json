@@ -226,8 +226,8 @@
     "covers": [ "LEG_EITHER" ],
     "flags": [ "RECHARGE", "WAIST", "FRAGILE", "OVERSIZE", "WATERPROOF", "IS_UPS", "NO_RELOAD", "NO_UNLOAD" ],
     "magazines": [
-      [ "battery", [ "high_density_integral_battery" ] ]
-    ]
+      [ "battery", [ "high_density_integral_battery" ] ] 
+        ]
   },
   {
     "id": "adv_UPS_off",
